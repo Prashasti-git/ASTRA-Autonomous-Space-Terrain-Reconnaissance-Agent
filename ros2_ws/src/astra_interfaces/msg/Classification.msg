@@ -1,0 +1,4 @@
+string object_type
+float32 confidence
+string hazard_level
+string navigation_recommendation

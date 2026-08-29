@@ -1,0 +1,4 @@
+string terrain_type
+float32 slope_angle
+float32 roughness_index
+bool is_passable
