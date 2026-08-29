@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AstraMissionPlan",
+  "description": "Structured mission execution plan schema for ASTRA autonomous rover agent",
+  "type": "object",
+  "properties": {
+    "mission": {
+      "type": "string",
+      "description": "Unique mission identifier or mission objective name"
+    },
+    "steps": {
+      "type": "array",
+      "description": "Sequence of deterministic mission action steps",
+      "items": {
+        "type": "object",
+        "properties": {
+          "action": {
+            "type": "string",
+            "enum": [
+              "navigate_to",
+              "search_for",
+              "approach",
+              "analyze_terrain",
+              "detect_objects",
+              "collect_sample",
+              "return_to_base",
+              "stop_rover"
+            ]
+          },
+          "target": {
+            "type": "string",
+            "description": "Target location identifier, object type, or waypoint coordinates"
+          },
+          "parameters": {
+            "type": "object",
+            "description": "Optional parameters for action execution"
+          }
+        },
+        "required": ["action"]
+      }
+    }
+  },
+  "required": ["mission", "steps"]
+}
