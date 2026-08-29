@@ -1,0 +1,33 @@
+[0.925s] Invoking command in '/astra/ros2_ws/src/astra_navigation': PYTHONPATH=/astra/ros2_ws/build/astra_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/astra/ros2_ws/install/astra_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/astra_navigation build --build-base /astra/ros2_ws/build/astra_navigation/build install --record /astra/ros2_ws/build/astra_navigation/install.log --install-scripts $base/lib/astra_navigation --single-version-externally-managed install_data
+[1.003s] running egg_info
+[1.006s] creating ../../build/astra_navigation/astra_navigation.egg-info
+[1.008s] writing ../../build/astra_navigation/astra_navigation.egg-info/PKG-INFO
+[1.014s] writing dependency_links to ../../build/astra_navigation/astra_navigation.egg-info/dependency_links.txt
+[1.015s] writing entry points to ../../build/astra_navigation/astra_navigation.egg-info/entry_points.txt
+[1.016s] writing requirements to ../../build/astra_navigation/astra_navigation.egg-info/requires.txt
+[1.020s] writing top-level names to ../../build/astra_navigation/astra_navigation.egg-info/top_level.txt
+[1.030s] writing manifest file '../../build/astra_navigation/astra_navigation.egg-info/SOURCES.txt'
+[1.034s] reading manifest file '../../build/astra_navigation/astra_navigation.egg-info/SOURCES.txt'
+[1.038s] writing manifest file '../../build/astra_navigation/astra_navigation.egg-info/SOURCES.txt'
+[1.040s] running build
+[1.041s] running build_py
+[1.046s] creating /astra/ros2_ws/build/astra_navigation/build
+[1.048s] creating /astra/ros2_ws/build/astra_navigation/build/lib
+[1.051s] creating /astra/ros2_ws/build/astra_navigation/build/lib/astra_navigation
+[1.054s] copying astra_navigation/__init__.py -> /astra/ros2_ws/build/astra_navigation/build/lib/astra_navigation
+[1.060s] running install
+[1.061s] running install_lib
+[1.070s] creating /astra/ros2_ws/install/astra_navigation/lib/python3.10/site-packages/astra_navigation
+[1.071s] copying /astra/ros2_ws/build/astra_navigation/build/lib/astra_navigation/__init__.py -> /astra/ros2_ws/install/astra_navigation/lib/python3.10/site-packages/astra_navigation
+[1.079s] byte-compiling /astra/ros2_ws/install/astra_navigation/lib/python3.10/site-packages/astra_navigation/__init__.py to __init__.cpython-310.pyc
+[1.091s] running install_data
+[1.095s] creating /astra/ros2_ws/install/astra_navigation/share/ament_index
+[1.100s] creating /astra/ros2_ws/install/astra_navigation/share/ament_index/resource_index
+[1.101s] creating /astra/ros2_ws/install/astra_navigation/share/ament_index/resource_index/packages
+[1.103s] copying resource/astra_navigation -> /astra/ros2_ws/install/astra_navigation/share/ament_index/resource_index/packages
+[1.107s] copying package.xml -> /astra/ros2_ws/install/astra_navigation/share/astra_navigation
+[1.113s] running install_egg_info
+[1.119s] Copying ../../build/astra_navigation/astra_navigation.egg-info to /astra/ros2_ws/install/astra_navigation/lib/python3.10/site-packages/astra_navigation-0.0.0-py3.10.egg-info
+[1.149s] running install_scripts
+[1.150s] writing list of installed files to '/astra/ros2_ws/build/astra_navigation/install.log'
+[1.170s] Invoked command in '/astra/ros2_ws/src/astra_navigation' returned '0': PYTHONPATH=/astra/ros2_ws/build/astra_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/astra/ros2_ws/install/astra_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/astra_navigation build --build-base /astra/ros2_ws/build/astra_navigation/build install --record /astra/ros2_ws/build/astra_navigation/install.log --install-scripts $base/lib/astra_navigation --single-version-externally-managed install_data

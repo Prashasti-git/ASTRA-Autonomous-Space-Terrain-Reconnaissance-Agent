@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/astra_bringup/astra_bringup.egg-info
+writing ../../build/astra_bringup/astra_bringup.egg-info/PKG-INFO
+writing dependency_links to ../../build/astra_bringup/astra_bringup.egg-info/dependency_links.txt
+writing entry points to ../../build/astra_bringup/astra_bringup.egg-info/entry_points.txt
+writing requirements to ../../build/astra_bringup/astra_bringup.egg-info/requires.txt
+writing top-level names to ../../build/astra_bringup/astra_bringup.egg-info/top_level.txt
+writing manifest file '../../build/astra_bringup/astra_bringup.egg-info/SOURCES.txt'
+reading manifest file '../../build/astra_bringup/astra_bringup.egg-info/SOURCES.txt'
+writing manifest file '../../build/astra_bringup/astra_bringup.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /astra/ros2_ws/build/astra_bringup/build
+creating /astra/ros2_ws/build/astra_bringup/build/lib
+creating /astra/ros2_ws/build/astra_bringup/build/lib/astra_bringup
+copying astra_bringup/__init__.py -> /astra/ros2_ws/build/astra_bringup/build/lib/astra_bringup
+running install
+running install_lib
+creating /astra/ros2_ws/install/astra_bringup/lib/python3.10/site-packages/astra_bringup
+copying /astra/ros2_ws/build/astra_bringup/build/lib/astra_bringup/__init__.py -> /astra/ros2_ws/install/astra_bringup/lib/python3.10/site-packages/astra_bringup
+byte-compiling /astra/ros2_ws/install/astra_bringup/lib/python3.10/site-packages/astra_bringup/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /astra/ros2_ws/install/astra_bringup/share/ament_index
+creating /astra/ros2_ws/install/astra_bringup/share/ament_index/resource_index
+creating /astra/ros2_ws/install/astra_bringup/share/ament_index/resource_index/packages
+copying resource/astra_bringup -> /astra/ros2_ws/install/astra_bringup/share/ament_index/resource_index/packages
+copying package.xml -> /astra/ros2_ws/install/astra_bringup/share/astra_bringup
+running install_egg_info
+Copying ../../build/astra_bringup/astra_bringup.egg-info to /astra/ros2_ws/install/astra_bringup/lib/python3.10/site-packages/astra_bringup-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/astra/ros2_ws/build/astra_bringup/install.log'

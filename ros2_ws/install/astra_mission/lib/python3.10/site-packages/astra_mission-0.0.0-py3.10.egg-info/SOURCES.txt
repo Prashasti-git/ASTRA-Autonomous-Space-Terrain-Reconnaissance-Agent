@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/astra_mission/astra_mission.egg-info/PKG-INFO
+../../build/astra_mission/astra_mission.egg-info/SOURCES.txt
+../../build/astra_mission/astra_mission.egg-info/dependency_links.txt
+../../build/astra_mission/astra_mission.egg-info/entry_points.txt
+../../build/astra_mission/astra_mission.egg-info/requires.txt
+../../build/astra_mission/astra_mission.egg-info/top_level.txt
+../../build/astra_mission/astra_mission.egg-info/zip-safe
+astra_mission/__init__.py
+resource/astra_mission
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

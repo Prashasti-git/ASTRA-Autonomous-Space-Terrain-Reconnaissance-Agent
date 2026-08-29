@@ -1,0 +1,9 @@
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/uninstall.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/astra_interfaces_uninstall.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/test.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/edit_cache.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/rebuild_cache.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/list_install_components.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/install.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/install/local.dir
+/astra/ros2_ws/build/astra_interfaces/CMakeFiles/install/strip.dir

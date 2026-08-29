@@ -1,0 +1,6 @@
+Invoking command in '/astra/ros2_ws/build/astra_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /astra/ros2_ws/src/astra_interfaces -DCMAKE_INSTALL_PREFIX=/astra/ros2_ws/install/astra_interfaces
+Invoked command in '/astra/ros2_ws/build/astra_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /astra/ros2_ws/src/astra_interfaces -DCMAKE_INSTALL_PREFIX=/astra/ros2_ws/install/astra_interfaces
+Invoking command in '/astra/ros2_ws/build/astra_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /astra/ros2_ws/build/astra_interfaces -- -j8 -l8
+Invoked command in '/astra/ros2_ws/build/astra_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /astra/ros2_ws/build/astra_interfaces -- -j8 -l8
+Invoking command in '/astra/ros2_ws/build/astra_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /astra/ros2_ws/build/astra_interfaces
+Invoked command in '/astra/ros2_ws/build/astra_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /astra/ros2_ws/build/astra_interfaces

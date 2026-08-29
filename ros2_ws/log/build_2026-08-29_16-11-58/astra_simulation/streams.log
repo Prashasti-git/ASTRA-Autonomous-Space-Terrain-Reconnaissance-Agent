@@ -1,0 +1,33 @@
+[0.936s] Invoking command in '/astra/ros2_ws/src/astra_simulation': PYTHONPATH=/astra/ros2_ws/build/astra_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/astra/ros2_ws/install/astra_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/astra_simulation build --build-base /astra/ros2_ws/build/astra_simulation/build install --record /astra/ros2_ws/build/astra_simulation/install.log --install-scripts $base/lib/astra_simulation --single-version-externally-managed install_data
+[1.147s] running egg_info
+[1.147s] creating ../../build/astra_simulation/astra_simulation.egg-info
+[1.147s] writing ../../build/astra_simulation/astra_simulation.egg-info/PKG-INFO
+[1.148s] writing dependency_links to ../../build/astra_simulation/astra_simulation.egg-info/dependency_links.txt
+[1.148s] writing entry points to ../../build/astra_simulation/astra_simulation.egg-info/entry_points.txt
+[1.148s] writing requirements to ../../build/astra_simulation/astra_simulation.egg-info/requires.txt
+[1.148s] writing top-level names to ../../build/astra_simulation/astra_simulation.egg-info/top_level.txt
+[1.148s] writing manifest file '../../build/astra_simulation/astra_simulation.egg-info/SOURCES.txt'
+[1.148s] reading manifest file '../../build/astra_simulation/astra_simulation.egg-info/SOURCES.txt'
+[1.149s] writing manifest file '../../build/astra_simulation/astra_simulation.egg-info/SOURCES.txt'
+[1.149s] running build
+[1.149s] running build_py
+[1.149s] creating /astra/ros2_ws/build/astra_simulation/build
+[1.149s] creating /astra/ros2_ws/build/astra_simulation/build/lib
+[1.149s] creating /astra/ros2_ws/build/astra_simulation/build/lib/astra_simulation
+[1.149s] copying astra_simulation/__init__.py -> /astra/ros2_ws/build/astra_simulation/build/lib/astra_simulation
+[1.149s] running install
+[1.150s] running install_lib
+[1.150s] creating /astra/ros2_ws/install/astra_simulation/lib/python3.10/site-packages/astra_simulation
+[1.150s] copying /astra/ros2_ws/build/astra_simulation/build/lib/astra_simulation/__init__.py -> /astra/ros2_ws/install/astra_simulation/lib/python3.10/site-packages/astra_simulation
+[1.150s] byte-compiling /astra/ros2_ws/install/astra_simulation/lib/python3.10/site-packages/astra_simulation/__init__.py to __init__.cpython-310.pyc
+[1.150s] running install_data
+[1.150s] creating /astra/ros2_ws/install/astra_simulation/share/ament_index
+[1.151s] creating /astra/ros2_ws/install/astra_simulation/share/ament_index/resource_index
+[1.151s] creating /astra/ros2_ws/install/astra_simulation/share/ament_index/resource_index/packages
+[1.151s] copying resource/astra_simulation -> /astra/ros2_ws/install/astra_simulation/share/ament_index/resource_index/packages
+[1.151s] copying package.xml -> /astra/ros2_ws/install/astra_simulation/share/astra_simulation
+[1.151s] running install_egg_info
+[1.152s] Copying ../../build/astra_simulation/astra_simulation.egg-info to /astra/ros2_ws/install/astra_simulation/lib/python3.10/site-packages/astra_simulation-0.0.0-py3.10.egg-info
+[1.153s] running install_scripts
+[1.154s] writing list of installed files to '/astra/ros2_ws/build/astra_simulation/install.log'
+[1.166s] Invoked command in '/astra/ros2_ws/src/astra_simulation' returned '0': PYTHONPATH=/astra/ros2_ws/build/astra_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/astra/ros2_ws/install/astra_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/astra_simulation build --build-base /astra/ros2_ws/build/astra_simulation/build install --record /astra/ros2_ws/build/astra_simulation/install.log --install-scripts $base/lib/astra_simulation --single-version-externally-managed install_data

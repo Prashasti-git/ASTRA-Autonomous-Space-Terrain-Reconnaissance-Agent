@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/astra_classification/astra_classification.egg-info/PKG-INFO
+../../build/astra_classification/astra_classification.egg-info/SOURCES.txt
+../../build/astra_classification/astra_classification.egg-info/dependency_links.txt
+../../build/astra_classification/astra_classification.egg-info/entry_points.txt
+../../build/astra_classification/astra_classification.egg-info/requires.txt
+../../build/astra_classification/astra_classification.egg-info/top_level.txt
+../../build/astra_classification/astra_classification.egg-info/zip-safe
+astra_classification/__init__.py
+resource/astra_classification
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,33 @@
+[0.908s] Invoking command in '/astra/ros2_ws/src/astra_mission': PYTHONPATH=/astra/ros2_ws/build/astra_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/astra/ros2_ws/install/astra_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/astra_mission build --build-base /astra/ros2_ws/build/astra_mission/build install --record /astra/ros2_ws/build/astra_mission/install.log --install-scripts $base/lib/astra_mission --single-version-externally-managed install_data
+[1.013s] running egg_info
+[1.015s] creating ../../build/astra_mission/astra_mission.egg-info
+[1.016s] writing ../../build/astra_mission/astra_mission.egg-info/PKG-INFO
+[1.020s] writing dependency_links to ../../build/astra_mission/astra_mission.egg-info/dependency_links.txt
+[1.023s] writing entry points to ../../build/astra_mission/astra_mission.egg-info/entry_points.txt
+[1.026s] writing requirements to ../../build/astra_mission/astra_mission.egg-info/requires.txt
+[1.027s] writing top-level names to ../../build/astra_mission/astra_mission.egg-info/top_level.txt
+[1.033s] writing manifest file '../../build/astra_mission/astra_mission.egg-info/SOURCES.txt'
+[1.038s] reading manifest file '../../build/astra_mission/astra_mission.egg-info/SOURCES.txt'
+[1.043s] writing manifest file '../../build/astra_mission/astra_mission.egg-info/SOURCES.txt'
+[1.045s] running build
+[1.046s] running build_py
+[1.050s] creating /astra/ros2_ws/build/astra_mission/build
+[1.054s] creating /astra/ros2_ws/build/astra_mission/build/lib
+[1.056s] creating /astra/ros2_ws/build/astra_mission/build/lib/astra_mission
+[1.059s] copying astra_mission/__init__.py -> /astra/ros2_ws/build/astra_mission/build/lib/astra_mission
+[1.068s] running install
+[1.069s] running install_lib
+[1.076s] creating /astra/ros2_ws/install/astra_mission/lib/python3.10/site-packages/astra_mission
+[1.079s] copying /astra/ros2_ws/build/astra_mission/build/lib/astra_mission/__init__.py -> /astra/ros2_ws/install/astra_mission/lib/python3.10/site-packages/astra_mission
+[1.087s] byte-compiling /astra/ros2_ws/install/astra_mission/lib/python3.10/site-packages/astra_mission/__init__.py to __init__.cpython-310.pyc
+[1.102s] running install_data
+[1.108s] creating /astra/ros2_ws/install/astra_mission/share/ament_index
+[1.109s] creating /astra/ros2_ws/install/astra_mission/share/ament_index/resource_index
+[1.110s] creating /astra/ros2_ws/install/astra_mission/share/ament_index/resource_index/packages
+[1.110s] copying resource/astra_mission -> /astra/ros2_ws/install/astra_mission/share/ament_index/resource_index/packages
+[1.114s] copying package.xml -> /astra/ros2_ws/install/astra_mission/share/astra_mission
+[1.122s] running install_egg_info
+[1.127s] Copying ../../build/astra_mission/astra_mission.egg-info to /astra/ros2_ws/install/astra_mission/lib/python3.10/site-packages/astra_mission-0.0.0-py3.10.egg-info
+[1.153s] running install_scripts
+[1.154s] writing list of installed files to '/astra/ros2_ws/build/astra_mission/install.log'
+[1.171s] Invoked command in '/astra/ros2_ws/src/astra_mission' returned '0': PYTHONPATH=/astra/ros2_ws/build/astra_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/astra/ros2_ws/install/astra_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/astra_mission build --build-base /astra/ros2_ws/build/astra_mission/build install --record /astra/ros2_ws/build/astra_mission/install.log --install-scripts $base/lib/astra_mission --single-version-externally-managed install_data

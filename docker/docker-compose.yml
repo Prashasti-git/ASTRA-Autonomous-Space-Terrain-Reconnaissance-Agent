@@ -1,0 +1,21 @@
+services:
+
+  astra:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+
+    container_name: astra
+
+    working_dir: /astra
+
+    volumes:
+      - ..:/astra
+
+    stdin_open: true
+    tty: true
+
+    environment:
+      - PYTHONUNBUFFERED=1
+
+    command: bash

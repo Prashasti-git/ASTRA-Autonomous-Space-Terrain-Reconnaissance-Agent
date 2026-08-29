@@ -1,0 +1,9 @@
+Python
+OpenCV
+NumPy
+PyTorch
+Torchvision
+Ultralytics
+SciPy
+Pandas
+Matplotlib
