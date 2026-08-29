@@ -17,5 +17,25 @@ services:
 
     environment:
       - PYTHONUNBUFFERED=1
+      - DATABASE_URL=postgresql://user:password@postgres:5432/astra_db
+
+    depends_on:
+      - postgres
 
     command: bash
+
+  postgres:
+    image: postgres:15-alpine
+    container_name: astra_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: astra_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
